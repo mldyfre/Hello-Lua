@@ -1,2 +1,2 @@
-# Hello_Java
-learning Java
+# Hello-Lua
+learning Lua
